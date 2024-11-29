@@ -1,4 +1,4 @@
-# SmartCourseFinder -HMI 🎓
+# HMI -Course Finder🎓
 
 This project was built by [Joshua Porunnedath Biju](https://github.com/JOSHUAPBIJU) and [Joyel Porunnedath Biju](https://github.com/joyelpbiju).
 
